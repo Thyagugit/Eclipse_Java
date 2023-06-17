@@ -1,0 +1,29 @@
+h2#a1
+{
+color:blue;
+text-align:center;
+background:yellow;
+width:50%;
+}
+#a2
+{
+color:red;
+}
+
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: 'Kanit', sans-serif; /* this should be the rest of the output you got from Google Fonts */
+}
+
+
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+

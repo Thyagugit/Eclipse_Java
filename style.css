@@ -1,0 +1,30 @@
+p#a1
+{
+color: #b524ae ;
+text-align:center;
+background-color: yellow;
+width:50%
+}
+#a2
+{
+Color: green;
+text-align:center;
+background-color: orange;
+width:25%
+}
+#a3
+{
+color: Blue;
+background-color:red;
+width:15%;
+
+}
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: 'Quicksand', sans-serif; /* this should be the rest of the output you got from Google Fonts */
+}
+
+
+
+
+
